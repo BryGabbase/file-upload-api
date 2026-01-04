@@ -27,13 +27,16 @@ It demonstrates best practices for a backend API including file validation, stru
 
 # Home page 
 ![Description of Screenshot](screenshot_1.png)
-*Initial API welcome page
+*Initial API welcome page*
 
 # Search 
 ![Search page showing filtered results](search.png)
 ![Search page showing filtered results](search_word.png)
 *Search endpoint filtering uploaded files by tite or description*
 
+# List  View
+![Search page showing filtered results](list.png)
+*Paginated list view displaying uploaded files.*
 
 
 
