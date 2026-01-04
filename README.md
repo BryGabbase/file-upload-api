@@ -9,7 +9,9 @@ It features **full CRUD functionality** with **pagination**, **authentication**,
 The project uses both **ViewSets** and **regular API views** and includes **test endpoints** to validate CRUD operations.  
 It demonstrates best practices for a backend API including file validation, structured responses, and API testing.
 
+
 # Features
+
 - Upload files, images, and videos
 - List and retrieve uploaded content with **pagination**
 - **Search** uploaded content by name or description
@@ -19,8 +21,16 @@ It demonstrates best practices for a backend API including file validation, stru
 - Built with **ViewSets** and **APIViews**
 - Includes **test endpoints** to verify CRUD operations
 - File type and size validation
+  
 
+## Demo / Screenshots
+
+# Home page 
 ![Description of Screenshot](screenshot_1.png)
+
+# Search 
+![Search page showing filtered results](search.png)
+
 
 
   
