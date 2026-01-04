@@ -20,5 +20,7 @@ It demonstrates best practices for a backend API including file validation, stru
 - Includes **test endpoints** to verify CRUD operations
 - File type and size validation
 
+![Description of Screenshot](screenshot_1.png)
+
 
   
