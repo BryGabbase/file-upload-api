@@ -151,6 +151,12 @@ The Uploader API is protected using **authentication and permission classes** to
 
 
 
+## Author
+
+Bauyrzhan Kappassov
+
+
+
 
 
 
