@@ -28,13 +28,13 @@ It demonstrates best practices for a backend API including file validation, stru
 
 # Home page 
 ![Description of Screenshot](screenshot_1.png)
-*Initial API welcome page*
+*Initial API welcome page.  '/api/-URL*
 
 
 # List  View
 
 ![Description of Screenshot](list.png)
-*Paginated list view showing uploaded files across multiple pages*
+*Paginated list view showing uploaded files across multiple pages.  'api/up/'list/-URl*
 
 
 # Create
@@ -42,22 +42,22 @@ It demonstrates best practices for a backend API including file validation, stru
 ![Description of Screenshot](create.png)
 ![Description of Screenshot](validators.png)
 ![Description of Screenshot](creating_1.png)
-*Creating/uploading a new file via the API with built-in validation, ready for production use.*
+*Creating/uploading a new file via the API with built-in validation, ready for production use. 'api/up/'- URL*
 
 
 
 # Retrieve
 
 ![Description of Screenshot](Retrieve.png)
-*Retrieving details of a single uploaded file 
-*'view/<int:pk>/'*->URL
+*Retrieving details of a single uploaded file .*'view/<int:pk>/'*-URL
+
 
 
 # Update
 
 ![Description of Screenshot](update_1.png)
 ![Description of Screenshot](update.png)
-*Updating an existing file’s details using the API.*
+*Updating an existing file’s details . 'update/<int:pk>/'-URL*
 
 
 
@@ -65,14 +65,14 @@ It demonstrates best practices for a backend API including file validation, stru
 
 ![Description of Screenshot](delete.png)
 ![Description of Screenshot](delete_after.png)
-*Deleting a file from the server using the API. File is removed permanently.*
+*Deleting a file from the server using the API. File is removed permanently. 'delete/<int:pk>/'URL*
 
 
 
 # Search 
 ![Search page showing filtered results](search.png)
 ![Search page showing filtered results](search_word.png)
-*Search endpoint filtering uploaded files by tite or description*
+*Search endpoint filtering uploaded files by tite or description. 'api/v2/search/?q=...URL*
 
 
 
