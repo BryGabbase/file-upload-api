@@ -85,14 +85,22 @@ In this project, **ViewSets and APIViews work together seamlessly**, complementi
 
 
 # Api Root
+
 ![Search page showing filtered results](ApiRoot.png)
 api/v2/-URL 
 
 
-# List
+# List,Create, and Pagination 
+
 ![Search page showing filtered results](list_create.png)
 ![Search page showing filtered results](list_pagination_create.png)
 *Listing and creating uploaded files with pagination support.api/v2/video-up/-URL*
+
+
+# Retrieve,Update, or Delete
+
+![Search page showing filtered results](retrieve_update_delete.png)
+Retrieving, updating, and deleting an uploaded file via the API. .api/v2/video-up/1/-URL*
 
 
 
