@@ -111,7 +111,7 @@ Retrieving, updating, and deleting an uploaded file via the API. .api/v2/video-u
 
 ![Search page showing filtered results](VSsearch.png)
 ![Search page showing filtered results](search_VS.png)
-* Search works same as View but only URL chaging. api/v2/search/'-URL
+*Search works same as View but only URL chaging. api/v2/search/'-URL
 
 
 
