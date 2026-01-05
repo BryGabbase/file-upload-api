@@ -141,7 +141,7 @@ The Uploader API is protected using **authentication and permission classes** to
 - Django REST Framework
 -  Session Authentication /Simple JWT
 - SQLite (default Django database)/PostgreSQL
-- django-cors-headers
+- Django-Cors-Headers
 - PyYAML
 - Requests
 - REST APIs
