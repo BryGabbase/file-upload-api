@@ -72,7 +72,7 @@ It demonstrates best practices for a backend API including file validation, stru
 # Search 
 ![Search page showing filtered results](search.png)
 ![Search page showing filtered results](search_word.png)
-*Search endpoint filtering uploaded files by tite or description. 'api/v2/search/?q=...URL*
+*Search endpoint filtering uploaded files by tite or description. 'api/search/?q=...URL*
 
 
 
