@@ -34,7 +34,7 @@ It demonstrates best practices for a backend API including file validation, stru
 # List  View
 
 ![Description of Screenshot](list.png)
-*Paginated list view showing uploaded files across multiple pages.  'api/up/'list/-URl*
+*Paginated list view showing uploaded files across multiple pages.  'api/up/'list/-URL*
 
 
 # Create
