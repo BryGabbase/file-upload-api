@@ -50,6 +50,7 @@ It demonstrates best practices for a backend API including file validation, stru
 
 ![Description of Screenshot](Retrieve.png)
 *Retrieving details of a single uploaded file 
+*'view/<int:pk>/'*->URL
 
 
 # Update
