@@ -41,6 +41,11 @@ It demonstrates best practices for a backend API including file validation, stru
 ![Description of Screenshot](creating_1.png)
 *Creating/uploading a new file via the API with built-in validation, ready for production use.*
 
+# Update
+![Description of Screenshot](update.png)
+![Description of Screenshot](update_1.png)
+*Updating an existing file’s details using the API.*
+
 
 # Delete 
 ![Description of Screenshot](delete.png)
