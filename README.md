@@ -35,7 +35,14 @@ It demonstrates best practices for a backend API including file validation, stru
 ![Description of Screenshot](list.png)
 *Paginated list view showing uploaded files across multiple pages*
 
-# Delete View
+# Create
+![Description of Screenshot](create.png)
+![Description of Screenshot](create_1.png)
+![Description of Screenshot](create_Volidator.png)
+*Creating/uploading a new file via the API with built-in validation, ready for production use.*
+
+
+# Delete 
 ![Description of Screenshot](delete.png)
 ![Description of Screenshot](delete_after.png)
 *Deleting a file from the server using the API. File is removed permanently.*
