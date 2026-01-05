@@ -134,7 +134,7 @@ The Uploader API is protected using **authentication and permission classes** to
 *A simple Python client used to test and interact with the REST API endpoints.*
 
 # Video
-![Description of Videot](vidoe.webm)
+![Description of Videot](video.webm)
 
 
 
