@@ -21,6 +21,7 @@ It demonstrates best practices for a backend API including file validation, stru
 - Built with **ViewSets** and **APIViews**
 - Includes **test endpoints** to verify CRUD operations
 - File type and size validation
+- Validators .Regulation what users can and cannot write into DRF REST API  
   
 
 ## Demo / Screenshots
@@ -31,14 +32,24 @@ It demonstrates best practices for a backend API including file validation, stru
 
 
 # List  View
-![Search page showing filtered results](list.png)
-*Paginated list view displaying uploaded files.*
+![Description of Screenshot](list.png)
+*Paginated list view showing uploaded files across multiple pages*
+
+# Delete View
+![Description of Screenshot](delete.png)
+![Description of Screenshot](delete_after.png)
+*Deleting a file from the server using the API. File is removed permanently.*
+
 
 
 # Search 
 ![Search page showing filtered results](search.png)
 ![Search page showing filtered results](search_word.png)
 *Search endpoint filtering uploaded files by tite or description*
+
+
+
+
 
 
 
