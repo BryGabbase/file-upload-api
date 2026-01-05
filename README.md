@@ -86,12 +86,14 @@ In this project, **ViewSets and APIViews work together seamlessly**, complementi
 
 # Api Root
 ![Search page showing filtered results](ApiRoot.png)
-*http://localhost:8003/api/v2/-URL
+api/v2/-URL 
+
 
 # List
-![Search page showing filtered results](ApiRoot.png)
-![Search page showing filtered results](ApiRoot.png)
+![Search page showing filtered results](list_create.png)
 *Listing and creating uploaded files with pagination support.api/v2/video-up/-URL*
+
+
 
 
 
