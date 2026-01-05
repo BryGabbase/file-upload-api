@@ -91,6 +91,7 @@ api/v2/-URL
 
 # List
 ![Search page showing filtered results](list_create.png)
+![Search page showing filtered results](list_pagination_create.png)
 *Listing and creating uploaded files with pagination support.api/v2/video-up/-URL*
 
 
