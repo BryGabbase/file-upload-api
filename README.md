@@ -127,7 +127,6 @@ The Uploader API is protected using **authentication and permission classes** to
 - Uses **Simple JWT** for authentication
 - Protected endpoints require a valid access token in the request header
 
-- 
 
 
 
