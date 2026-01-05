@@ -128,6 +128,14 @@ The Uploader API is protected using **authentication and permission classes** to
 - Protected endpoints require a valid access token in the request header
 
 
+# Py_Client
+
+![Permission Denied](py_client.png)
+*A simple Python client used to test and interact with the REST API endpoints.*
+
+
+
+
 
 
 
