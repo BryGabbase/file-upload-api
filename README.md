@@ -70,9 +70,30 @@ It demonstrates best practices for a backend API including file validation, stru
 
 
 # Search 
+
 ![Search page showing filtered results](search.png)
 ![Search page showing filtered results](search_word.png)
 *Search endpoint filtering uploaded files by tite or description. 'api/search/?q=...URL*
+
+
+
+# ViewSets
+
+This project uses **Django REST Framework ViewSets** to manage standard CRUD operations for files, images, and videos.  
+ViewSets simplify the code by automatically handling **list, create, retrieve, update, and delete** actions, while supporting **pagination, authentication, and permissions**.  
+In this project, **ViewSets and APIViews work together seamlessly**, complementing each other in the Uploader app and making it **more robust and maintainable**.
+
+
+# Api Root
+![Search page showing filtered results](ApiRoot.png)
+*http://localhost:8003/api/v2/-URL
+
+# List
+![Search page showing filtered results](ApiRoot.png)
+![Search page showing filtered results](ApiRoot.png)
+*Listing and creating uploaded files with pagination support.api/v2/video-up/-URL*
+
+
 
 
 
