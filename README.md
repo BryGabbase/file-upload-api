@@ -115,6 +115,27 @@ Retrieving, updating, and deleting an uploaded file via the API. .api/v2/video-u
 
 
 
+# Authentication & Permissions
+
+The Uploader API is protected using **authentication and permission classes** to restrict access to endpoints.
+
+
+# Unauthorized Request and Authentication Method
+
+![Permission Denied](permission_denied.png)
+*Accessing `GET /api/up/list/` without authentication returns **HTTP 403 Forbidden**, indicating that login is required.*
+- Uses **Simple JWT** for authentication
+- Protected endpoints require a valid access token in the request header
+
+- 
+
+
+
+
+
+
+
+
 
 
 
