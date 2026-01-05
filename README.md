@@ -130,8 +130,11 @@ The Uploader API is protected using **authentication and permission classes** to
 
 # Py_Client
 
-![Permission Denied](py_client.png)
+![Description of Screenshot](py_client.png)
 *A simple Python client used to test and interact with the REST API endpoints.*
+
+# Video
+![Description of Videot](vidoe.webm)
 
 
 
