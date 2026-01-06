@@ -170,7 +170,7 @@ conda activate saas
 pip install -r requirements.txt
 
 6.Run database migrations
-python manage.py makemigrations
+python manage.py makemigration
 python manage.py migrate
 
 7.Start the development server
