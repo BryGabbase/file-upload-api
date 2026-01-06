@@ -197,7 +197,8 @@ Go to browser: http://127.0.0.1:8003/
 
 Bauyrzhan Kappassov
 
-GitHub: [https://github.com/BryGabbase](https://github.com/BryGabbase) 
+-GitHub: [https://github.com/BryGabbase](https://github.com/BryGabbase) 
+- Email: brygab988@gmail.com
 
 
 
