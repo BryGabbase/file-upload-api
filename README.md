@@ -153,7 +153,7 @@ The Uploader API is protected using **authentication and permission classes** to
 
 
 1. **Clone the repository**  
-[file-upload-api]](https://github.com/BryGabbase/file-upload-api.git)
+[file-upload-api](https://github.com/BryGabbase/file-upload-api.git)
 
 ```bash
 
