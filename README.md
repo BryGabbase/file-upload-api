@@ -152,8 +152,8 @@ The Uploader API is protected using **authentication and permission classes** to
 ## How to Run
 
 1. **Clone the repository**
+   git clone https://github.com/BryGabbase/file-upload-api.git
 ```bash
-git clone https://github.com/BryGabbase/file-upload-api.git
 
 2. Navigate into the project folder
 cd file-upload-api
