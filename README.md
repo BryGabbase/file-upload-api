@@ -77,7 +77,7 @@ It demonstrates best practices for a backend API including file validation, stru
 
 
 
-# ViewSets
+# ViewSet
 
 This project uses **Django REST Framework ViewSets** to manage standard CRUD operations for files, images, and videos.  
 ViewSets simplify the code by automatically handling **list, create, retrieve, update, and delete** actions, while supporting **pagination, authentication, and permissions**.  
@@ -150,6 +150,9 @@ The Uploader API is protected using **authentication and permission classes** to
 
 
 ## How to Run
+
+https://github.com/BryGabbase/file-upload-api.git
+cd file-upload-api
 
 
 
