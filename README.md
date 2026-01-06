@@ -155,25 +155,27 @@ The Uploader API is protected using **authentication and permission classes** to
 ```bash
 git clone https://github.com/BryGabbase/file-upload-api.git
 
-3. Navigate into the project folder
+2. Navigate into the project folder
 cd file-upload-api
 
-4. Virtual environment
+3. Virtual environment
 conda create -n saas python=3.11.14
 
-5. Activate the Conda environment
-codna activate saas
+4. Activate the Conda environment
+conda activate saas
 
-6. Install required packages
+5. Install required packages
 pip install -r requirements.txt
 
-7.Run database migrations
+6.Run database migrations
+python manage.py makemigration
 python manage.py migrate
 
-8.Start the development server
+7.Start the development server
 python manage.py  runserver 8003
 
-9.Open in browser
+8.Open in browser
+
 Go to http://127.0.0.1:8003/
 ````bash`
    
