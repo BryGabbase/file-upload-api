@@ -169,14 +169,14 @@ conda activate saas
 5. Install required packages
 pip install -r requirements.txt
 
-6.Run database migrations
+6. Run database migrations
 python manage.py makemigration
 python manage.py migrate
 
-7.Start the development server
+7. Start the development server
 python manage.py runserver 8003
 
-8.Open in browser
+8. Open in browser
 
 Go to http:
 ```
