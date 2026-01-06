@@ -151,19 +151,20 @@ The Uploader API is protected using **authentication and permission classes** to
 
 ## How to Run
 
-1. **Clone the repository**  
+1. **Clone the repository**
+```bash
 git clone https://github.com/BryGabbase/file-upload-api.git
 
-2. *Navigate into the project folder*
+3. *Navigate into the project folder*
 cd file-upload-api
 
-3. *Virtual environment*
+4. *Virtual environment*:
 conda create -n saas python=3.11.14
 
-4. *Activate the Conda environment*
+5. *Activate the Conda environment*:
 codna activate saas
 
-5. *Install required packages*
+6. *Install required packages*
 pip install -r requirements.txt
 
    
