@@ -172,7 +172,7 @@ python manage.py makemigrations
 python manage.py migrate
 
 7.Start the development server
-python manage.py  runserver 8003
+python manage.py runserver 8003
 
 8.Open in browser
 
