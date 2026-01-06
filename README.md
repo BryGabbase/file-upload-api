@@ -178,9 +178,10 @@ python manage.py runserver 8003
 
 8. Open in browser
 
-Go to http:
+Go to http: http://127.0.0.1:8003/)
+
 ```
-[browser](http://127.0.0.1:8003/)
+
 
 
 
